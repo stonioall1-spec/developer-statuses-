@@ -1,0 +1,6 @@
+{
+  "name": "AuraPulse Mobile & Games - Developer Portal",
+  "description": "Official developer landing page for AuraPulse mobile productivity app and Pulse Orbit companion arcade game. Includes direct APK downloads, interactive demo, developer contact, and Google Play compliant privacy policy.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
